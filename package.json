@@ -1,6 +1,6 @@
 {
-  "name": "constellation",
-  "version": "1.0.0",
+  "name": "@bahadrix/constellation",
+  "version": "0.1.0",
   "description": "Generic Flow Programming Genesis",
   "license": "MIT",
   "repository": "https://github.com/bahadrix/constellation.git",
@@ -14,6 +14,7 @@
   "devDependencies": {
     "format-package": "^5.2.0",
     "prettier": "^1.18.2",
+    "readme-md-generator": "^1.0.0",
     "typescript": "^3.7.5"
   }
 }
