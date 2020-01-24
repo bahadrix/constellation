@@ -1,0 +1,14 @@
+{
+  "name": "examples",
+  "version": "0.1.0",
+  "description": "Constellation Examples SubProject",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack-cli",
+    "dev": "webpack-cli -w --mode development"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
+}

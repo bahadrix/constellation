@@ -8,7 +8,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "format-package": "format-package -w"
+    "format-package": "format-package -w",
+    "publish": "npm publish --access public"
   },
   "types": "dist/index.d.ts",
   "devDependencies": {
@@ -16,5 +17,8 @@
     "prettier": "^1.18.2",
     "readme-md-generator": "^1.0.0",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "pixi.js": "^5.2.0"
   }
 }
