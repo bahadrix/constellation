@@ -1,0 +1,19 @@
+{
+  "name": "constellation",
+  "version": "1.0.0",
+  "description": "Generic Flow Programming Genesis",
+  "license": "MIT",
+  "repository": "https://github.com/bahadrix/constellation.git",
+  "author": "Bahadir <bahadrix@gmail.com>",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "format-package": "format-package -w"
+  },
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "format-package": "^5.2.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.7.5"
+  }
+}
