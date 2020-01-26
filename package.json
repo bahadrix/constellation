@@ -8,6 +8,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "dev": "tsc --watch",
+    "build-examples": "yarn --cwd ./examples build",
     "format-package": "format-package -w",
     "publish": "npm publish --access public"
   },

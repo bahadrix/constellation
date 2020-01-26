@@ -3,8 +3,9 @@ const { resolve } = require('path');
 const isDevelopment = process.env.NODE_ENV !== 'production';
 
 const config = {
+  mode: isDevelopment ? "development" : "production",
   entry: {
-    Basic: resolve('./basic/src/index.ts')
+    Basic: resolve('./src/basic/index.ts')
   },
   module: {
     rules: [
