@@ -8,7 +8,7 @@
 
 > Generic Flow Programming Genesis
 
-### 🏠 [Homepage](https://constellation.baha.dev)
+[https://constellation.baha.dev](https://constellation.baha.dev)
 
 ## Install
 
@@ -18,18 +18,11 @@ yarn install
 
 ## Author
 
-👤 **Bahadir <bahadrix@gmail.com>**
+**Bahadir <bahadrix@gmail.com>**
 
 * Website: http://blog.bahadir.me
 * Github: [@bahadrix](https://github.com/bahadrix)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bahadrix/constellation/issues). 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
